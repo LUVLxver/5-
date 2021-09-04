@@ -1,7 +1,7 @@
 import threading
 import time
 import request, random, datetime, sys, time, argparse, os
-print(От ЛУВ ЛАВЕР с любовью)
+print("""ОтЛУВЛАВЕРслюбовью""")
 phone = input("\033[32m Введи номер мрази +")
 def qw(_phone):
     if _phone[0] == '+':
